@@ -1,3 +1,3 @@
 # hello-world-go
 
-Practice to publish a golang module.
+Practice publishing a golang module.
